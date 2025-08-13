@@ -19,12 +19,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Kondhekar&layout=compact)
   </a>
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Kondhekar&show_icons=true&theme=radical"/>
 
   </div>
   </a>
